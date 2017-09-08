@@ -1,0 +1,2 @@
+webpackJsonp([7962392658344e6],{"./node_modules/json-loader/index.js!./.cache/json/gallery.json":function(e,o){e.exports={data:{markdownRemark:{html:"<h1>Gallery</h1>\n<p>Coming Soon</p>",frontmatter:{title:"Gallery"}}},pathContext:{slug:"/gallery/"}}}});
+//# sourceMappingURL=path---gallery-25b3196dd8779dfd213d.js.map

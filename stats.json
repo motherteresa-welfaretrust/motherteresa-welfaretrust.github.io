@@ -1,0 +1,56 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-0a3327baa1e5c7018781.js",
+      "component---src-pages-index-js-0a3327baa1e5c7018781.js.map"
+    ],
+    "path---": [
+      "path----f57cc41bd5f5b92ae1e9.js",
+      "path----f57cc41bd5f5b92ae1e9.js.map"
+    ],
+    "component---src-templates-page-js": [
+      "component---src-templates-page-js-6fe3c866a6761e803b52.js",
+      "component---src-templates-page-js-6fe3c866a6761e803b52.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "path---donate": [
+      "path---donate-cb8cb0f35d013b7610a5.js",
+      "path---donate-cb8cb0f35d013b7610a5.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-ab7394c1358fa617eb05.js",
+      "component---src-layouts-index-js-ab7394c1358fa617eb05.js.map"
+    ],
+    "path---gallery": [
+      "path---gallery-25b3196dd8779dfd213d.js",
+      "path---gallery-25b3196dd8779dfd213d.js.map"
+    ],
+    "path---index": [
+      "path---index-4dc14e53e155deeb4920.js",
+      "path---index-4dc14e53e155deeb4920.js.map"
+    ],
+    "commons": [
+      "commons-4deee803be7b7a7b08db.js",
+      "commons-4deee803be7b7a7b08db.js.map"
+    ],
+    "path---contact": [
+      "path---contact-c31b11a5f396869247f2.js",
+      "path---contact-c31b11a5f396869247f2.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-d45be325312cdf420472.js",
+      "app-d45be325312cdf420472.js.map"
+    ],
+    "path---about": [
+      "path---about-36d5a0097387ebde3b5c.js",
+      "path---about-36d5a0097387ebde3b5c.js.map"
+    ]
+  }
+}
